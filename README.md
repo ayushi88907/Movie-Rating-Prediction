@@ -24,7 +24,18 @@ This project aims to build a **predictive model** to estimate **movie ratings** 
 ## 📂 Data Understanding
 The dataset is obtained from Kaggle:  
 📌 **[IMDb India Movies](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)**
+The dataset has the following columns:
 
+``Name``: Movie name   
+``Year``: release year of the movies   
+``Duration``: Movie duration   
+``Genre``: Movie genre    
+``Rating``: Movie rating    
+``Votes``: Number of votes received    
+``Director``: Movie director   
+``Actor 1``: First main actor    
+``Actor 2``: Second main actor    
+``Actor 3``: Third main actor   
 ---
 
 ## 📌 Results
