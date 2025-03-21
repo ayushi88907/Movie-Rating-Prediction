@@ -1,6 +1,5 @@
 # Movie-Rating-Prediction
-Predicting movie ratings using machine learning based on genre, cast, budget, and reviews. Includes data preprocessing, feature engineering, and model training for accurate predictions.
-# 🎬 Project Overview
+🎬 Project Overview
 This project aims to build a **predictive model** to estimate **movie ratings** based on various attributes such as **genre, director, actors, and other relevant factors**. The dataset consists of **Indian movies**, and the model provides insights into what influences movie ratings.
 
 ---
