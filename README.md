@@ -34,7 +34,7 @@ The dataset is obtained from Kaggle:
 👤 Author
 Ayushi Tiwari
 📧 ayushi1411tiwari@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn : https://www.linkedin.com/in/ayushi-tiwari-btech?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🎥 "Lights, Camera, Prediction!" 🚀
 
 
