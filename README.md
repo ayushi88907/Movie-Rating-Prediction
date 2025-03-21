@@ -31,5 +31,11 @@ The dataset is obtained from Kaggle:
 🖥️ **Provides a user-friendly interface** for predictions  
 
 ---
+👤 Author
+Ayushi Tiwari
+📧 ayushi1411tiwari@gmail.com
+🔗 LinkedIn
+🎥 "Lights, Camera, Prediction!" 🚀
+
 
 🚀 **Star this repository** if you find it useful! ⭐
